@@ -1,0 +1,9 @@
+
+”
+java:S2095
+"LUse try-with-resources or close this "BrowserContext" in a "finally" clause.(¦¶ş½úÿÿÿÿ8ø‡¾æı1J$1c20391b-c6c7-41f1-8da4-8bde8be30552
+Š
+java:S2095"BUse try-with-resources or close this "Page" in a "finally" clause.(í‰ˆçÿÿÿÿÿ8õ‡¾æı1J$847f6d6c-1b73-4586-98d7-4905432e8648
+
+java:S2095"HUse try-with-resources or close this "Playwright" in a "finally" clause.(Ã’“Íøÿÿÿÿ8ø‡¾æı1J$80e82433-1356-4808-a123-22eb798cf231
+G	java:S106+"+Replace this use of System.out by a logger.(ØÖëÛ8òÑĞëı1
